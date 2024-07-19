@@ -1,4 +1,4 @@
 # Python-projects
-We will  make diffrent python projeects overhere
+We will  make different python projeects overhere
 <br>
 Author = Arpit Pandey
